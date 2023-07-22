@@ -2,15 +2,24 @@
   "name": "Youtube Bookmarker",
   "version": "0.1.0",
   "description": "Saves your youtube video timestamps. You can add or delete Bookmarks or play directly from your bookmarked timestamps",
-  "permissions": ["storage", "tabs"],
-  "host_permissions": ["https://*.youtube.com/*"],
+  "permissions": [
+    "storage",
+    "tabs"
+  ],
+  "host_permissions": [
+    "https://*.youtube.com/*"
+  ],
   "background": {
     "service_worker": "background-script.js"
   },
   "content_scripts": [
     {
-      "matches": ["https://*.youtube.com/*"],
-      "js": ["content-script.js"]
+      "matches": [
+        "https://*.youtube.com/*"
+      ],
+      "js": [
+        "content-script.js"
+      ]
     }
   ],
   "web_accessible_resources": [
@@ -21,14 +30,17 @@
         "assets/delete.png",
         "assets/save.png"
       ],
-      "matches": ["https://*.youtube.com/*"]
+      "matches": [
+        "https://*.youtube.com/*"
+      ]
     }
   ],
+  "icons": {
+    "128":  "assets/extension.png"
+  },
   "action": {
     "default_icon": {
-      "16": "assets/extension.png",
-      "24": "assets/extension.png",
-      "32": "assets/extension.png"
+      "128": "assets/extension.png"
     },
     "default_title": "Youtube Bookmarker",
     "default_popup": "popup.html"
