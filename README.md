@@ -25,5 +25,12 @@ Follow the steps for installing the extension:
     
 ## Screenshots
 
+![image](https://github.com/gourav1001/Youtube-Bookmarker-Chrome-Extension/assets/87244158/edd31205-24d1-4078-b514-f3fb69ac7253)
 
+![Untitled](https://github.com/gourav1001/Youtube-Bookmarker-Chrome-Extension/assets/87244158/d6b64bdc-f103-4c33-a374-8e4295da7e3e)
 
+![image](https://github.com/gourav1001/Youtube-Bookmarker-Chrome-Extension/assets/87244158/f3f8e086-3548-43ab-9cf3-a40e9667b424)
+
+![image](https://github.com/gourav1001/Youtube-Bookmarker-Chrome-Extension/assets/87244158/f91aab02-5a95-446b-80e3-1d80daac84f9)
+
+![image](https://github.com/gourav1001/Youtube-Bookmarker-Chrome-Extension/assets/87244158/2169d9b8-e902-4de9-8c41-ec0049a89b05)
